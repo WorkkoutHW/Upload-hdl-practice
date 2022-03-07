@@ -1,0 +1,129 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SOC/intel_modelsim/add_rca_16
+vAdd_rca_16
+Z1 !s110 1644387768
+!i10b 1
+!s100 91dgl7NnPT]U7=>S2zd2=1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVjg4YQioc9YLS4n=kkNj>2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1644387763
+Z5 8C:/Users/SOC/intel_modelsim/add_rca_16/Add_rca_16_teset.v
+Z6 FC:/Users/SOC/intel_modelsim/add_rca_16/Add_rca_16_teset.v
+!i122 7
+L0 38 13
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1644387768.000000
+!s107 C:/Users/SOC/intel_modelsim/add_rca_16/Add_rca_16_teset.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/add_rca_16/Add_rca_16_teset.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@add_rca_16
+vAdd_rca_16_test
+R1
+!i10b 1
+!s100 73mU@XL0nZd>oEXdd=IPF0
+R2
+I2P0@X4gO`A@C^W5f8F<[]3
+R3
+R0
+R4
+R5
+R6
+!i122 7
+L0 53 21
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/SOC/intel_modelsim/add_rca_16/Add_rca_16_teset.v|
+R9
+!i113 1
+R10
+R11
+n@add_rca_16_test
+vAdd_rca_4
+R1
+!i10b 1
+!s100 S`POQM1G@lI3GW3Q7OY9<3
+R2
+I]a1i<U9OZG<F:ENAI_^8U0
+R3
+R0
+R4
+R5
+R6
+!i122 7
+L0 24 13
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@add_rca_4
+vfull_add
+R1
+!i10b 1
+!s100 m9QI1?;E?FN]@96ffISV<3
+R2
+IR;d>jG5=A;W;9JZUX^6Nn2
+R3
+R0
+R4
+R5
+R6
+!i122 7
+L0 10 12
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vhalf_add
+R1
+!i10b 1
+!s100 W`Za^]>bNabB=;zJ`RCDS0
+R2
+I:5VzLT1`BL<AUUa:eg;Nd1
+R3
+R0
+R4
+R5
+R6
+!i122 7
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11

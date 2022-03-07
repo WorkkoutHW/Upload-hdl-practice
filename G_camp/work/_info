@@ -1,0 +1,227 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vDFF
+Z0 !s110 1645076654
+!i10b 1
+!s100 LhGJUDz@Nb671>dJPCADb3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IE9TYVWS4K?]eRFdglDHQS1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/SOC/intel_modelsim/G_camp
+w1644993744
+8C:/Users/SOC/intel_modelsim/G_camp/DFF.v
+FC:/Users/SOC/intel_modelsim/G_camp/DFF.v
+!i122 34
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1645076654.000000
+!s107 C:/Users/SOC/intel_modelsim/G_camp/DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/DFF.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@d@f@f
+vDFF_TB
+R0
+!i10b 1
+!s100 bPk`_1`zoMmUNPAQERWB41
+R1
+IJ]JL=]U;ilLNM=ZGREX@D1
+R2
+R3
+w1644994024
+8C:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v
+FC:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v
+!i122 35
+L0 1 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v|
+!i113 1
+R6
+R7
+n@d@f@f_@t@b
+vGATE
+R0
+!i10b 1
+!s100 1E:dDT_hI;9nB1KH?Re:l1
+R1
+I8PfM5S0abb8o^hiC8Ao5=1
+R2
+R3
+w1644991834
+8C:/Users/SOC/intel_modelsim/G_camp/GATE.v
+FC:/Users/SOC/intel_modelsim/G_camp/GATE.v
+!i122 32
+L0 1 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/SOC/intel_modelsim/G_camp/GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/GATE.v|
+!i113 1
+R6
+R7
+n@g@a@t@e
+vGATE_AND
+!s110 1645076653
+!i10b 1
+!s100 _0?ii^4f572kh]Pia^:QX0
+R1
+I[mjcTT0mdMP:MDmzeF=7_3
+R2
+R3
+w1644991457
+8C:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v
+FC:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v
+!i122 31
+L0 1 5
+R4
+r1
+!s85 0
+31
+!s108 1645076653.000000
+!s107 C:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v|
+!i113 1
+R6
+R7
+n@g@a@t@e_@a@n@d
+vGATE_TB
+R0
+!i10b 1
+!s100 VJ_f9mk0Za5V;@2g0bN8_2
+R1
+ImeBacH93<fC_8K[7<BlI;2
+R2
+R3
+w1644992253
+8C:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v
+FC:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v
+!i122 33
+L0 1 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v|
+!i113 1
+R6
+R7
+n@g@a@t@e_@t@b
+vJKFF
+Z8 !s110 1645076655
+!i10b 1
+!s100 <P6Sb8@5<lJ6`=FJ=nU@m1
+R1
+IQG6Fo47XJR@7NEiLC5;QJ2
+R2
+R3
+w1644999138
+8C:/Users/SOC/intel_modelsim/G_camp/JKFF.v
+FC:/Users/SOC/intel_modelsim/G_camp/JKFF.v
+!i122 36
+Z9 L0 1 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/SOC/intel_modelsim/G_camp/JKFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/JKFF.v|
+!i113 1
+R6
+R7
+n@j@k@f@f
+vJKFF_TB
+R8
+!i10b 1
+!s100 H0Z3mJOd^BgL0nA`4Chd83
+R1
+I<EN8N?gJ1Hm]Z[4@[AY@Y1
+R2
+R3
+w1644999528
+8C:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v
+FC:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v
+!i122 37
+L0 1 21
+R4
+r1
+!s85 0
+31
+Z10 !s108 1645076655.000000
+!s107 C:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v|
+!i113 1
+R6
+R7
+n@j@k@f@f_@t@b
+vMux4x1
+R8
+!i10b 1
+!s100 RAoBVFUo>IL:W9hjaN<Sa1
+R1
+IKKFe]2nj;E=CVBVQdcgGY0
+R2
+R3
+w1645076415
+8C:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v
+FC:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v
+!i122 38
+R9
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v|
+!i113 1
+R6
+R7
+n@mux4x1
+vMux4x1_tb
+!s110 1645076764
+!i10b 1
+!s100 5KN?JA`bN@j5SYH[QW66l3
+R1
+IPTzimLV:=aX@MWHYT7M170
+R2
+R3
+w1645076751
+8C:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v
+FC:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v
+!i122 40
+L0 2 18
+R4
+r1
+!s85 0
+31
+!s108 1645076763.000000
+!s107 C:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v|
+!i113 1
+R6
+R7
+n@mux4x1_tb

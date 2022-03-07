@@ -1,0 +1,64 @@
+C:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFF_TB
+
+Top level modules:
+	DFF_TB
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/GATE.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/GATE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GATE
+
+Top level modules:
+	GATE
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/JKFF.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/JKFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module JKFF
+
+Top level modules:
+	JKFF
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/GATE_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GATE_TB
+
+Top level modules:
+	GATE_TB
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/JKFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module JKFF_TB
+
+Top level modules:
+	JKFF_TB
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/Mux4x1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4x1
+
+Top level modules:
+	Mux4x1
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/GATE_AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GATE_AND
+
+Top level modules:
+	GATE_AND
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/Mux4x1_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4x1_tb
+
+Top level modules:
+	Mux4x1_tb
+
+} {} {}} C:/Users/SOC/intel_modelsim/G_camp/DFF.v {1 {vlog -work work -stats=none C:/Users/SOC/intel_modelsim/G_camp/DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}}

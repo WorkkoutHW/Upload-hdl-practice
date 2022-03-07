@@ -1,0 +1,358 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SOC/intel_modelsim
+vAdd_rca_16_test
+!s110 1644383465
+!i10b 1
+!s100 7h5aK:[LDdbc5BTK6Eo=32
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUEQhhSj?@cj<oAY]L9[O[2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1644383460
+8C:/Users/SOC/intel_modelsim/add_rca_16_test.v
+FC:/Users/SOC/intel_modelsim/add_rca_16_test.v
+!i122 12
+L0 1 20
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1644383465.000000
+!s107 C:/Users/SOC/intel_modelsim/add_rca_16_test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/add_rca_16_test.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@add_rca_16_test
+vand3
+Z6 !s110 1644302783
+!i10b 1
+!s100 ]AklJJIh?R5SMfNMXEP0j0
+R1
+I=0JYfa_cH84S:^LWCJl9j2
+R2
+R0
+Z7 w1644302772
+Z8 8C:/Users/SOC/intel_modelsim/str_ex.v
+Z9 FC:/Users/SOC/intel_modelsim/str_ex.v
+!i122 10
+L0 1 6
+R3
+r1
+!s85 0
+31
+Z10 !s108 1644302783.000000
+Z11 !s107 C:/Users/SOC/intel_modelsim/str_ex.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/str_ex.v|
+!i113 1
+R4
+R5
+vand8
+!s110 1642576395
+!i10b 1
+!s100 CW1n?F[D96L=Ci:;c`Q>D0
+R1
+ISWUSWo4c<:f[fHNj@EY2O0
+R2
+R0
+w1642576344
+8C:/Users/SOC/intel_modelsim/and8.v
+FC:/Users/SOC/intel_modelsim/and8.v
+!i122 4
+Z13 L0 1 7
+R3
+r1
+!s85 0
+31
+!s108 1642576395.000000
+!s107 C:/Users/SOC/intel_modelsim/and8.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/and8.v|
+!i113 1
+R4
+R5
+vand_gate
+!s110 1642572894
+!i10b 1
+!s100 :PZRYT2K<5?_QcKif4J0L2
+R1
+IaLL<`X`P9hVF>[3TfmbHQ1
+R2
+R0
+w1642572888
+8C:/Users/SOC/intel_modelsim/and_gate.v
+FC:/Users/SOC/intel_modelsim/and_gate.v
+!i122 1
+L0 1 3
+R3
+r1
+!s85 0
+31
+!s108 1642572894.000000
+!s107 C:/Users/SOC/intel_modelsim/and_gate.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/and_gate.v|
+!i113 1
+R4
+R5
+vcompare_2_algo
+!s110 1644299499
+!i10b 1
+!s100 >OW69UU@VgdX::J[zzoh61
+R1
+IC7[:Z;EJQULMi_doF7Ian3
+R2
+R0
+w1644299492
+8C:/Users/SOC/intel_modelsim/compare_2_algo.v
+FC:/Users/SOC/intel_modelsim/compare_2_algo.v
+!i122 7
+L0 1 14
+R3
+r1
+!s85 0
+31
+!s108 1644299499.000000
+!s107 C:/Users/SOC/intel_modelsim/compare_2_algo.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/compare_2_algo.v|
+!i113 1
+R4
+R5
+vfull_add
+Z14 !s110 1644380842
+!i10b 1
+!s100 m9QI1?;E?FN]@96ffISV<3
+R1
+I2om?Ee>[U^YZWhj6D;6SS2
+R2
+R0
+Z15 w1644380801
+Z16 8C:/Users/SOC/intel_modelsim/full_adder.v
+Z17 FC:/Users/SOC/intel_modelsim/full_adder.v
+!i122 11
+L0 10 12
+R3
+r1
+!s85 0
+31
+Z18 !s108 1644380842.000000
+Z19 !s107 C:/Users/SOC/intel_modelsim/full_adder.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/full_adder.v|
+!i113 1
+R4
+R5
+vgates
+!s110 1642576151
+!i10b 1
+!s100 N5WhD@HlIEzU`:iN:JMZT2
+R1
+Ibn8`XS47XzX3lOfUF`@QX2
+R2
+R0
+w1642576144
+8C:/Users/SOC/intel_modelsim/gates.v
+FC:/Users/SOC/intel_modelsim/gates.v
+!i122 3
+L0 1 11
+R3
+r1
+!s85 0
+31
+!s108 1642576151.000000
+!s107 C:/Users/SOC/intel_modelsim/gates.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/gates.v|
+!i113 1
+R4
+R5
+vhalf_add
+R14
+!i10b 1
+!s100 W`Za^]>bNabB=;zJ`RCDS0
+R1
+IhgEOE=6Ok2e<hGehi;JlV1
+R2
+R0
+R15
+R16
+R17
+!i122 11
+L0 1 8
+R3
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R4
+R5
+vinv
+R6
+!i10b 1
+!s100 b<@=HZhQjK[][fbn5gTcG3
+R1
+I2Uf;nUDN@d94;>9bdmg643
+R2
+R0
+R7
+R8
+R9
+!i122 10
+L0 8 6
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4
+R5
+vinverter
+!s110 1642575754
+!i10b 1
+!s100 L@W<9PF^fK>]MHG[?SP>P3
+R1
+IKnMWkNYC3bG1;9j[?;a>:0
+R2
+R0
+w1642575749
+8C:/Users/SOC/intel_modelsim/inverter.v
+FC:/Users/SOC/intel_modelsim/inverter.v
+!i122 2
+R13
+R3
+r1
+!s85 0
+31
+!s108 1642575754.000000
+!s107 C:/Users/SOC/intel_modelsim/inverter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/inverter.v|
+!i113 1
+R4
+R5
+vmux2
+Z21 !s110 1644293997
+!i10b 1
+!s100 9DSkDRI=;@TQ;oEb`z7;l2
+R1
+IVkn@maJ1U`M2lkES]zNRi2
+R2
+R0
+Z22 w1644293989
+Z23 8C:/Users/SOC/intel_modelsim/mux2_newassign.v
+Z24 FC:/Users/SOC/intel_modelsim/mux2_newassign.v
+!i122 6
+L0 1 9
+R3
+r1
+!s85 0
+31
+Z25 !s108 1644293997.000000
+Z26 !s107 C:/Users/SOC/intel_modelsim/mux2_newassign.v|
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/mux2_newassign.v|
+!i113 1
+R4
+R5
+vmux4
+R21
+!i10b 1
+!s100 N1Sb?kH21d1d9XWR2[o812
+R1
+Ic1No<_JGgZ?LNWFW3D<I01
+R2
+R0
+R22
+R23
+R24
+!i122 6
+L0 12 11
+R3
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R4
+R5
+vMux_4_32_case
+!s110 1644301479
+!i10b 1
+!s100 e1XU]Q<JA;X8aBVc@bEZ91
+R1
+ITo6TR727]<cIZnRXEJX>W3
+R2
+R0
+w1644301474
+8C:/Users/SOC/intel_modelsim/mux_4_32_case.v
+FC:/Users/SOC/intel_modelsim/mux_4_32_case.v
+!i122 8
+L0 1 19
+R3
+r1
+!s85 0
+31
+!s108 1644301479.000000
+!s107 C:/Users/SOC/intel_modelsim/mux_4_32_case.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/mux_4_32_case.v|
+!i113 1
+R4
+R5
+n@mux_4_32_case
+vnand3
+R6
+!i10b 1
+!s100 JI^c5SeJVjHgF;E:gd]_[3
+R1
+ID`UNOaaH`QKUe:Izz^6Z=3
+R2
+R0
+R7
+R8
+R9
+!i122 10
+L0 15 9
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4
+R5
+vnot_gate
+!s110 1642572384
+!i10b 1
+!s100 iI`8VEz;EU=O;<8hl24_83
+R1
+Ibo7_lfhY7=NHl^bRzPe0Q1
+R2
+R0
+w1642572380
+8C:/Users/SOC/intel_modelsim/not_gate.v
+FC:/Users/SOC/intel_modelsim/not_gate.v
+!i122 0
+L0 1 5
+R3
+r1
+!s85 0
+31
+!s108 1642572384.000000
+!s107 C:/Users/SOC/intel_modelsim/not_gate.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/not_gate.v|
+!i113 1
+R4
+R5

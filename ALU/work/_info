@@ -1,0 +1,177 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SOC/intel_modelsim/ALU
+vAL_4
+Z1 !s110 1644471060
+!i10b 1
+!s100 j[[S3e^MO3Q]oO]WU61Ch2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISo9gc:DU>RSiIe?eg_`mK3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1644471055
+Z5 8C:/Users/SOC/intel_modelsim/ALU/ALU_4_test.v
+Z6 FC:/Users/SOC/intel_modelsim/ALU/ALU_4_test.v
+!i122 18
+L0 63 12
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1644471060.000000
+!s107 C:/Users/SOC/intel_modelsim/ALU/ALU_4_test.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/ALU/ALU_4_test.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l_4
+vALU_4
+R1
+!i10b 1
+!s100 @8z`Z7XiM=CbMA`LlCDW[2
+R2
+I=`ICnBPOXN[8j^kaEDLTN0
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 77 21
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/SOC/intel_modelsim/ALU/ALU_4_test.v|
+R9
+!i113 1
+R10
+R11
+n@a@l@u_4
+vALU_4_test
+R1
+!i10b 1
+!s100 Tc1^P_m7McD7FQAA@DdF]3
+R2
+I?4mTl29C[=0eXD[=c<Vn02
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 99 46
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@a@l@u_4_test
+vAU_4
+R1
+!i10b 1
+!s100 FhnEDe@g0KJkS7zaJm>H33
+R2
+Ii:15nKcoiH4?KTgmVQe`31
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 35 26
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@a@u_4
+vfull_add
+R1
+!i10b 1
+!s100 m9QI1?;E?FN]@96ffISV<3
+R2
+I@:z@gIREmoR<?zGKl5dbc2
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 10 12
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vhalf_add
+R1
+!i10b 1
+!s100 W`Za^]>bNabB=;zJ`RCDS0
+R2
+IPF?GLSC>UlA=dzo_dYPK03
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 1 8
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vMUX_4x1
+R1
+!i10b 1
+!s100 zUN:1^@Nl38mL?bn<31I=3
+R2
+IK=8Y:VBmmQS>GVN7K`Aah3
+R3
+R0
+R4
+R5
+R6
+!i122 18
+L0 23 10
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@m@u@x_4x1

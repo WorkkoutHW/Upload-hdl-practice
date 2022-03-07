@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SOC/intel_modelsim/week9
+vDFF
+!s110 1644477857
+!i10b 1
+!s100 hG>Sl]_2Zj=A>Wo[id]CF2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjoS:R]N5h:D]22ZnP62?k0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1644477808
+8C:/Users/SOC/intel_modelsim/week9/DFF.v
+FC:/Users/SOC/intel_modelsim/week9/DFF.v
+!i122 1
+Z3 L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1644477857.000000
+!s107 C:/Users/SOC/intel_modelsim/week9/DFF.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/week9/DFF.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d@f@f
+vDFF_syn
+!s110 1644554831
+!i10b 1
+!s100 VU^A67iohW37DL0>E8?3j3
+R1
+IcR8U;d2ccME]XjEPi>=V01
+R2
+R0
+w1644554827
+8C:/Users/SOC/intel_modelsim/week9/DFF_syn.v
+FC:/Users/SOC/intel_modelsim/week9/DFF_syn.v
+!i122 3
+L0 1 14
+R4
+r1
+!s85 0
+31
+!s108 1644554831.000000
+!s107 C:/Users/SOC/intel_modelsim/week9/DFF_syn.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/week9/DFF_syn.v|
+!i113 1
+R5
+R6
+n@d@f@f_syn
+vREG4
+!s110 1644554398
+!i10b 1
+!s100 TZC2Z2WeHa0I4inaC3OL:1
+R1
+I@nmQXJg[l_Wa[V6fnIX8l0
+R2
+R0
+w1644554391
+8C:/Users/SOC/intel_modelsim/week9/REG4.v
+FC:/Users/SOC/intel_modelsim/week9/REG4.v
+!i122 2
+R3
+R4
+r1
+!s85 0
+31
+!s108 1644554398.000000
+!s107 C:/Users/SOC/intel_modelsim/week9/REG4.v|
+!s90 -reportprogress|300|-work|work|C:/Users/SOC/intel_modelsim/week9/REG4.v|
+!i113 1
+R5
+R6
+n@r@e@g4
